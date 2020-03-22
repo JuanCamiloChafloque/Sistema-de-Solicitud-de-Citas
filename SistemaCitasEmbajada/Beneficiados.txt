@@ -1,0 +1,9 @@
+---Lista de Beneficiarios
+-------------------------
+
+#numPass-----------------------Nombre-----------------------valorTotal(Pesos)
+111               Grettel Lahmann               17850.0
+
+555               John Kidman               121836.97976561761
+
+El valor total en pesos que se dejo de recaudar por visas de beneficiarios es: 139686.9797656176

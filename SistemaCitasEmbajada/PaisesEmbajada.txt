@@ -1,0 +1,8 @@
+#EMBAJADAS
+#id--país------------moneda--------------impuesto---------tasa de cambio
+100 *USA *USD *0.15 *3000
+110 *Francia *EUR *0.25 *3550
+120 *Chile *CHP *0.05 *325
+130 *Japón *JPY *0.30 *1562
+140 *Australia *AUD *0 *1850
+#FIN
